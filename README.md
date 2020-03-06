@@ -2,6 +2,8 @@
 
 A graph of **Lorenz attractor** implemented by OpenGL written in Haskell, for [competition](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/#competition).
 
+![](.\image.gif)
+
 ## Get Started
 
 ### Prerequisites 
